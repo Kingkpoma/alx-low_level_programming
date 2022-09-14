@@ -1,1 +1,1 @@
-the project is to perform a c commands using function
+this project is to perform a commands using function
