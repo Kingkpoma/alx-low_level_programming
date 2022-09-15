@@ -1,1 +1,1 @@
-this script describe a file in the repository
+the main file is a test for a positive_ or negative
