@@ -8,7 +8,7 @@
 *Return: return poiner to @dest
 */
 
-char *_strcat(char *dest, char *src)
+char *_strncat(char *dest, char *src)
 {
 int index = 0, dest_len = 0;
 while (dest[index++])
